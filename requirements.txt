@@ -1,0 +1,3 @@
+# Propósito: Definir las dependencias de Python para la aplicación.
+streamlit
+cryptography
